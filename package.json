@@ -1,0 +1,17 @@
+{
+  "name": "alsobihi",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "index.js",
+  "repository": "https://github.com/alsobihi/trello.git",
+  "author": "alsobihi <alsobihi.ai@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
+ 
+
