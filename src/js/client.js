@@ -74,9 +74,9 @@ function cleanandreplace(decodedString) {
     var newstr = newstr.replace('zzzzzzzzzzzz', "@"); 
     var newstr = newstr.replace('zzzzzzzzzzzz', "@"); 
     
-
+    console.log(newstr);
     var newstr = newstr.match(/@(.+)@@(.+)@@(.+)@@(.+)@@(.+)/i);
-
+    console.log(newstr);
     
     return newstr;
 }
