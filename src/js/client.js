@@ -70,7 +70,7 @@ function cleanandreplace(decodedString) {
     var newstr = newstr.replace('', "@"); 
     var newstr = newstr.replace('', "@"); 
     var newstr = newstr.replace('', "@"); 
-    var newstr = newstr.replace('zzzzzzzzzzzz', "@"); 
+    var newstr = newstr.replace('', "@"); 
     var newstr = newstr.replace('zzzzzzzzzzzz', "@"); 
     var newstr = newstr.replace('zzzzzzzzzzzz', "@"); 
     
